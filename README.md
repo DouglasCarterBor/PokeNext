@@ -30,4 +30,7 @@ Aula 22: Comandos Pokemons pela API
 - 11:49 - 12:00
 - 14:00 - 15:35
 
-Aula 23: 
+Aula 23: Finalizando CSS da HomePage
+
+- 15:45 - 16:30
+- 19:30 - 19:47
