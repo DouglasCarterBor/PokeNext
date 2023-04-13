@@ -20,7 +20,7 @@ export default function NavBar() {
             </Link>
             </li>
             <li>
-            <Link href="/" legacyBehavior>
+            <Link href="/about" legacyBehavior>
                 <a className={styles.link_items}>Sobre</a>
             </Link>
             </li>
