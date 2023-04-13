@@ -17,3 +17,6 @@ Aula 19: Criando componente de layout
 
 16:00 - 17:00
 
+Aula 20: CSS header e footer
+
+- 22:00 - 23:17

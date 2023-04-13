@@ -1,6 +1,6 @@
 import * as React from 'react';
 import Footer from './Footer';
-import NavBar from './Navbar';
+import NavBar2 from './Navbar';
 
 import Head from 'next/head';
 
@@ -15,7 +15,7 @@ export default function Layout({ children }: Props) {
         <link rel="shortcut icon" href="/images/favicon.ico"/>
         <title>PokeNext</title>
     </Head>
-      <NavBar />
+      <NavBar2/>
       <main className='main-container'>{children}</main>
       <Footer />
     </>
