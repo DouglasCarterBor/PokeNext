@@ -1,6 +1,7 @@
 import styles from '../styles/Home.module.css'
 import { GetStaticProps } from 'next'
 import Image from 'next/image'
+import Card from './components/Card'
 
 
 interface Pokemon {
@@ -17,17 +18,12 @@ export default function Home({ pokemons }: HomeProps) {
   return (
     <>
     <div className={styles.title_container}>
-     <h1 className={styles.title}>
-      Poke<span>Next</span>
-      </h1>
+     <h1 className={styles.title}>Poke<span>Next</span></h1>
      <Image src="/images/pokeball.png" width={50} height={50} alt="PokeNext"/>
     </div>
-
       <div className={styles.pokemon_container}>
         {pokemons.map((pokemon)=>(
-          <p>
-            {pokemon.name}
-          </p>
+            <Card key={pokemon.id} pokemon={pokemon}/>
         ))}
       </div>
     </>

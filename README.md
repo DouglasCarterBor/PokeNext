@@ -34,3 +34,8 @@ Aula 23: Finalizando CSS da HomePage
 
 - 15:45 - 16:30
 - 19:30 - 19:47
+
+Aula 24: Componentes de Card na home
+
+- 18:13 - 19:29
+
