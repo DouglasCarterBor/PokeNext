@@ -57,3 +57,8 @@ git remote add origin https://...
 git push -u origin main
 
 - 13:49 - 13:54
+
+Aula 28: Deploy na Vercel
+
+npm run build
+

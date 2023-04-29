@@ -62,8 +62,8 @@ export default function Pokemon({ pokemon }: PokemonProps) {
     <h1 className={styles.title}>{pokemon.name}</h1>
     <Image
         src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png`}
-        width={130}
-        height={130}
+        width={80}
+        height={80}
         alt={pokemon.name}
         />
         <div>
