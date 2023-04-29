@@ -42,3 +42,7 @@ Aula 24: Componentes de Card na home
 Aula 25: Resgatando dado individual de Pokemons
 
 - 19:30 - 19:21
+
+Aula 26: Finalizando página de Pokemon
+
+- 12:35 - 13:44
