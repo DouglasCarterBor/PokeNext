@@ -46,3 +46,14 @@ Aula 25: Resgatando dado individual de Pokemons
 Aula 26: Finalizando página de Pokemon
 
 - 12:35 - 13:44
+
+Aula 27: Enviando o projeto para o GitHub
+
+git init
+git add .
+git commit -a -m "Enviando projeto"
+git branch -M main
+git remote add origin https://...
+git push -u origin main
+
+- 13:49 - 13:54
